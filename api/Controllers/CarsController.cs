@@ -1,8 +1,8 @@
-using System;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CarRental.api.Controllers {
+namespace CarRental.api.Controllers
+{
 
     [Route("api/v1/[controller]")]
     public class CarsController: Controller {
