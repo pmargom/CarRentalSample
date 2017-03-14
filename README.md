@@ -3,7 +3,7 @@ This repo contains the source code explained in the blog of [Code Crafters Studi
 
 You can follow all parts of tutorial:
 
-* [Parte 0: Desarrollo web con .NET Core + WebApi + Entity Framework y mucho más.
+* [Parte 0]: Desarrollo web con .NET Core + WebApi + Entity Framework y mucho más.
 * [Parte 1]: Desarrollo web con .NET Core + WebApi + Entity Framework y mucho más: Parte 1.
 * [Parte 2]: Desarrollo web con .NET Core + WebApi + Entity Framework y mucho más: Parte 2.
 
